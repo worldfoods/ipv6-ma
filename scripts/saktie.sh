@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # centos 7.5
-# bash <(curl -s -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' "https://raw.githubusercontent.com/PastaArroz/ipv6-ma/master/scripts/ipv4-ipv6.sh")
+# bash <(curl -s -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' "https://raw.githubusercontent.com/PastaArroz/ipv6-ma/main/scripts/ipv4-ipv6.sh")
 
 GREEN='\033[0;32m'
 ORANGE='\033[0;33m'
