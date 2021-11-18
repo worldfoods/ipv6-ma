@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# bash <(curl -s "https://raw.githubusercontent.com/PastaArroz/ipv6-ma/master/scripts/ipv4-ipv6.sh")
+# bash <(curl -s "https://raw.githubusercontent.com/PastaArroz/ipv6-ma/main/scripts/ipv4-ipv6.sh")
 
 GREEN='\033[0;32m'
 ORANGE='\033[0;33m'
