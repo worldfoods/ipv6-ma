@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # centos 7
-# bash <(curl -s "https://raw.githubusercontent.com/MohistAttack/ipv4-ipv6-proxy/master/scripts/enable-ipv6.sh?r=$RANDOM")
+# bash <(curl -s "https://raw.githubusercontent.com/PastaArroz/ipv6-ma/master/scripts/enable-ipv6.sh?r=$RANDOM")
 
 GREEN='\033[0;32m'
 ORANGE='\033[0;33m'
